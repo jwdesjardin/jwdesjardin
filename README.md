@@ -11,7 +11,7 @@
 1. [Redux Ecommerce Site](https://github.com/jwdesjardin/ecommerce-redux)
 2. [Spotify API React App](https://github.com/jwdesjardin/spotify_albumList_app)
 3. [Next.js SSG Blog](https://github.com/jwdesjardin/nextjs-blog)
-4. [Next.js Portfolio](https://github.com/jwdesjardin/jwd2)
+4. [React Portfolio](https://github.com/jwdesjardin/jwd2)
 
 ## Treehouse TechDegree Projects
 
